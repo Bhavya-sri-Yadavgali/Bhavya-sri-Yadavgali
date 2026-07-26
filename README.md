@@ -9,3 +9,4 @@
 ![My Stats](https://github-readme-stats-nine-rho.vercel.app/api?username=Bhavya-sri-Yadavgali&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Bhavya-sri-Yadavgali&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
