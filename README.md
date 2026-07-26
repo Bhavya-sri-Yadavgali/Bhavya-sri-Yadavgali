@@ -6,4 +6,4 @@
 - 🧑‍💻 I'm currently open for: Internship opportunities
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,cpp)
-![My Stats](https://github-readme-stats.vercel.app/api?username=Bhavya-sri-Yadavgali&show_icons=true&theme=tokyonight)
+![My Stats](https://github-readme-stats.vercel.app/api?username=BhavyaSri Gali&show_icons=true&theme=tokyonight)
