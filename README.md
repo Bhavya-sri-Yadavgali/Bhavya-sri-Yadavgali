@@ -7,4 +7,4 @@
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,python,cpp)
 ![My Stats](https://github-readme-stats-nine-rho.vercel.app/api?username=Bhavya-sri-Yadavgali&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=Bhavya-sri-Yadavgali&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.zzzzzzzzzy.vercel.app/api/top-langs/?username=Bhavya-sri-Yadavgali&layout=compact&theme=tokyonight)
