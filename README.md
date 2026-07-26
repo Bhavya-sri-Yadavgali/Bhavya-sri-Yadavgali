@@ -10,3 +10,5 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Bhavya-sri-Yadavgali&layout=compact&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
