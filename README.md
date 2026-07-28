@@ -11,7 +11,11 @@
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,6 +69,12 @@ CampusEats               0 secs              ███████████�
 Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -82,5 +92,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 02:24:33 UTC
+ Last Updated on 28/07/2026 01:59:38 UTC
 <!--END_SECTION:waka-->
