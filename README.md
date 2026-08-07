@@ -11,10 +11,6 @@
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-41%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -29,51 +25,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-🌆 Daytime                20 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-🌃 Evening                53 commits          ████████████████░░░░░░░░░   62.35 % 
-🌙 Night                  7 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Tuesday                  17 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Friday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-Sunday                   21 commits          ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -91,5 +42,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2026 02:00:50 UTC
+ Last Updated on 07/08/2026 02:22:48 UTC
 <!--END_SECTION:waka-->
