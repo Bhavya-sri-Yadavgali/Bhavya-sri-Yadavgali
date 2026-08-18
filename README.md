@@ -56,16 +56,17 @@ Sunday                   21 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 3 mins         █████████████████████████   100.00 % 
+C                        56 mins             █████████████████████████   98.44 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.00 % 
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-COMPUTER_NETWORKS        1 hr 3 mins         █████████████████████████   100.00 % 
+COMPUTER_NETWORKS        57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 3 mins         █████████████████████████   100.00 % 
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -91,5 +92,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 00:54:24 UTC
+ Last Updated on 18/08/2026 00:53:05 UTC
 <!--END_SECTION:waka-->
