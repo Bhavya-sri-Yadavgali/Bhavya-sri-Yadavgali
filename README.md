@@ -21,11 +21,11 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 99 Contributions in the Year 2026
+> 🏆 100 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -56,17 +56,19 @@ Sunday                   21 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        56 mins             █████████████████████████   98.44 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+C                        56 mins             ███████████████████████░░   91.23 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  57 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-COMPUTER_NETWORKS        57 mins             █████████████████████████   100.00 % 
+COMPUTER_NETWORKS        57 mins             ███████████████████████░░   92.68 % 
+ONLINE_BANKING_SYSTEM    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -92,5 +94,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 00:53:45 UTC
+ Last Updated on 21/08/2026 00:57:07 UTC
 <!--END_SECTION:waka-->
