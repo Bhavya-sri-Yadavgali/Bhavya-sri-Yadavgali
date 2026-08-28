@@ -56,19 +56,17 @@ Sunday                   21 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-YAML                     4 mins              ██████████░░░░░░░░░░░░░░░   41.98 % 
-C++                      3 mins              ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Java                     2 mins              ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+C++                      3 mins              █████████████░░░░░░░░░░░░   53.50 % 
+Java                     2 mins              ████████████░░░░░░░░░░░░░   46.50 % 
 
 🔥 Editors: 
-VS Code                  10 mins             █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-COMPUTER_NETWORKS        6 mins              ███████████████░░░░░░░░░░   58.02 % 
-ONLINE_BANKING_SYSTEM    4 mins              ██████████░░░░░░░░░░░░░░░   41.98 % 
+COMPUTER_NETWORKS        6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,5 +92,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 27/08/2026 06:42:01 UTC
+ Last Updated on 28/08/2026 08:31:52 UTC
 <!--END_SECTION:waka-->
