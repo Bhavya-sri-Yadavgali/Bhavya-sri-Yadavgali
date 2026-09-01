@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20hrs%2012%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,33 +56,33 @@ Sunday                   24 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   43.83 % 
-TypeScript               2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   29.51 % 
-SQL                      1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Other                    3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
+TypeScript               2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+SQL                      1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+C++                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 53 mins       ██████████████░░░░░░░░░░░   57.59 % 
-VS Code                  2 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
-Agent                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Antigravity Desktop      4 hrs 53 mins       ██████████████░░░░░░░░░░░   55.45 % 
+VS Code                  2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+Agent                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 
 🐱‍💻 Projects: 
-KaushalConnect           7 hrs 58 mins       ███████████████████████░░   93.89 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-COMPUTER_NETWORKS        6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+KaushalConnect           7 hrs 58 mins       ███████████████████████░░   90.39 % 
+COMPUTER_NETWORKS        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 49 mins (92.02%)
+⏱ AI Coding Time: 7 hrs 49 mins (88.6%)
 
-✍️ 7,477 lines written by AI, 667 lines written by hand (91.81% AI-written)
+✍️ 7,477 lines written by AI, 966 lines written by hand (88.56% AI-written)
 
 🔤 69,150 Input Tokens, 69,150 Output Tokens
 
@@ -93,10 +93,10 @@ Windows                  8 hrs 29 mins       ███████████�
 Cursor                   7,477 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.81% of written lines came from AI
+🤖 AI-Driven — 88.56% of written lines came from AI
 📚 Verbose Prompter — average 3,962 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 18.74% of changed lines were hand-edited
+🚀 High AI Trust — 21.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +116,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 02:57:22 UTC
+ Last Updated on 01/09/2026 03:05:19 UTC
 <!--END_SECTION:waka-->
