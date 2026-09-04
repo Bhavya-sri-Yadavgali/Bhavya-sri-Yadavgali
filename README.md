@@ -21,7 +21,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 107 Contributions in the Year 2026
+> 🏆 108 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-🌃 Evening                56 commits          ███████████████░░░░░░░░░░   61.54 % 
-🌙 Night                  9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
+🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
+🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
+🌃 Evening                56 commits          ███████████████░░░░░░░░░░   60.87 % 
+🌙 Night                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
-Tuesday                  18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Friday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Sunday                   24 commits          ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Tuesday                  18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Saturday                 4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Sunday                   24 commits          ███████░░░░░░░░░░░░░░░░░░   26.09 % 
 ```
 
 
@@ -56,47 +56,48 @@ Sunday                   24 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    3 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.20 % 
-TypeScript               2 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-SQL                      1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-C++                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Other                    3 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.03 % 
+TypeScript               2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+SQL                      1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Java                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Prisma                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
 
 🔥 Editors: 
-Antigravity Desktop      4 hrs 53 mins       ██████████████░░░░░░░░░░░   55.45 % 
-VS Code                  2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   28.99 % 
-Agent                    1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Antigravity Desktop      5 hrs 10 mins       ████████████░░░░░░░░░░░░░   49.99 % 
+VS Code                  3 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.73 % 
+Agent                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
 
 🐱‍💻 Projects: 
-KaushalConnect           7 hrs 58 mins       ███████████████████████░░   90.39 % 
-COMPUTER_NETWORKS        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-terminals                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+KaushalConnect           7 hrs 58 mins       ███████████████████░░░░░░   77.17 % 
+LAB_5                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+ONLINE_BANKING_SYSTEM    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+COMPUTER_NETWORKS        25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Unknown Project          24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 
 💻 Operating System: 
-Windows                  8 hrs 49 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 49 mins (88.6%)
+⏱ AI Coding Time: 8 hrs 9 mins (78.99%)
 
-✍️ 7,477 lines written by AI, 966 lines written by hand (88.56% AI-written)
+✍️ 7,477 lines written by AI, 1,530 lines written by hand (83.01% AI-written)
 
 🔤 69,150 Input Tokens, 69,150 Output Tokens
 
 💵 $0.55 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 120 AI Prompts
+🧠 12 AI Sessions, 121 AI Prompts
 
 Cursor                   7,477 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.56% of written lines came from AI
-📚 Verbose Prompter — average 3,962 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 21.29% of changed lines were hand-edited
+🤖 AI-Driven — 83.01% of written lines came from AI
+📚 Verbose Prompter — average 3,960 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 27.71% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,5 +117,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 03/09/2026 02:32:01 UTC
+ Last Updated on 04/09/2026 02:28:04 UTC
 <!--END_SECTION:waka-->
