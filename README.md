@@ -11,7 +11,7 @@
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2052%20mins-blue?style=flat)
 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
-🌃 Evening                58 commits          ███████████████░░░░░░░░░░   61.70 % 
-🌙 Night                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+🌃 Evening                59 commits          ████████████████░░░░░░░░░   62.11 % 
+🌙 Night                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Tuesday                  18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Sunday                   25 commits          ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Tuesday                  18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Sunday                   25 commits          ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 ```
 
 
@@ -56,33 +56,33 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     46 mins             █████████░░░░░░░░░░░░░░░░   34.11 % 
-Prisma                   35 mins             ███████░░░░░░░░░░░░░░░░░░   26.02 % 
-C++                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-C                        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Java                     46 mins             ██████████░░░░░░░░░░░░░░░   41.16 % 
+Prisma                   35 mins             ████████░░░░░░░░░░░░░░░░░   31.40 % 
+C                        22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-VS Code                  2 hrs               ██████████████████████░░░   88.02 % 
-Antigravity Desktop      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+VS Code                  1 hr 37 mins        █████████████████████░░░░   85.54 % 
+Antigravity Desktop      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
 
 🐱‍💻 Projects: 
-LAB_5                    46 mins             █████████░░░░░░░░░░░░░░░░   34.11 % 
-ONLINE_BANKING_SYSTEM    43 mins             ████████░░░░░░░░░░░░░░░░░   32.03 % 
-COMPUTER_NETWORKS        33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-LAB_4                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-KaushalConnect           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+LAB_5                    46 mins             ██████████░░░░░░░░░░░░░░░   41.16 % 
+ONLINE_BANKING_SYSTEM    43 mins             ██████████░░░░░░░░░░░░░░░   38.65 % 
+LAB_4                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+LAB_6                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+KaushalConnect           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (15.15%)
+⏱ AI Coding Time: 20 mins (18.28%)
 
-✍️ 0 lines written by AI, 884 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 751 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -114,5 +114,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 02:22:34 UTC
+ Last Updated on 08/09/2026 02:35:02 UTC
 <!--END_SECTION:waka-->
