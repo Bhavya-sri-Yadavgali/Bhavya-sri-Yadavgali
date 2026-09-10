@@ -56,21 +56,21 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     46 mins             ██████████░░░░░░░░░░░░░░░   40.97 % 
-Prisma                   35 mins             ████████░░░░░░░░░░░░░░░░░   31.25 % 
-C                        22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Java                     46 mins             ██████████░░░░░░░░░░░░░░░   41.00 % 
+Prisma                   35 mins             ████████░░░░░░░░░░░░░░░░░   31.27 % 
+C                        22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████░░░░   85.14 % 
-Antigravity Desktop      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+VS Code                  1 hr 37 mins        █████████████████████░░░░   85.13 % 
+Antigravity Desktop      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
 
 🐱‍💻 Projects: 
-LAB_5                    46 mins             ██████████░░░░░░░░░░░░░░░   40.97 % 
-ONLINE_BANKING_SYSTEM    43 mins             ██████████░░░░░░░░░░░░░░░   38.47 % 
-LAB_4                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-LAB_6                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+LAB_5                    46 mins             ██████████░░░░░░░░░░░░░░░   41.00 % 
+ONLINE_BANKING_SYSTEM    43 mins             ██████████░░░░░░░░░░░░░░░   38.49 % 
+LAB_4                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+LAB_6                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 Linux-Character-Device-Dr0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
@@ -80,7 +80,7 @@ Windows                  1 hr 54 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (18.66%)
+⏱ AI Coding Time: 21 mins (18.67%)
 
 ✍️ 0 lines written by AI, 751 lines written by hand (0.0% AI-written)
 
@@ -114,5 +114,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 02:36:08 UTC
+ Last Updated on 10/09/2026 02:37:38 UTC
 <!--END_SECTION:waka-->
