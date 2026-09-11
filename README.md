@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-🌃 Evening                60 commits          ████████████████░░░░░░░░░   62.50 % 
-🌙 Night                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+🌃 Evening                61 commits          ████████████████░░░░░░░░░   62.89 % 
+🌙 Night                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Tuesday                  19 commits          █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Thursday                 15 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Sunday                   25 commits          ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Tuesday                  19 commits          █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Thursday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Saturday                 5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Sunday                   25 commits          ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
 ```
 
 
@@ -56,43 +56,39 @@ Sunday                   25 commits          ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     46 mins             ██████████░░░░░░░░░░░░░░░   41.00 % 
-Prisma                   35 mins             ████████░░░░░░░░░░░░░░░░░   31.27 % 
-C                        22 mins             █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
-YAML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+C                        22 mins             ██████████████░░░░░░░░░░░   56.21 % 
+Other                    17 mins             ███████████░░░░░░░░░░░░░░   43.79 % 
 
 🔥 Editors: 
-VS Code                  1 hr 37 mins        █████████████████████░░░░   85.13 % 
-Antigravity Desktop      16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+VS Code                  22 mins             ██████████████░░░░░░░░░░░   56.21 % 
+Antigravity Desktop      17 mins             ███████████░░░░░░░░░░░░░░   43.79 % 
 
 🐱‍💻 Projects: 
-LAB_5                    46 mins             ██████████░░░░░░░░░░░░░░░   41.00 % 
-ONLINE_BANKING_SYSTEM    43 mins             ██████████░░░░░░░░░░░░░░░   38.49 % 
-LAB_4                    12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
-LAB_6                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-Linux-Character-Device-Dr0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+ONLINE_BANKING_SYSTEM    17 mins             ███████████░░░░░░░░░░░░░░   42.48 % 
+LAB_4                    12 mins             ████████░░░░░░░░░░░░░░░░░   31.06 % 
+LAB_6                    10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Linux-Character-Device-Dr0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 
 💻 Operating System: 
-Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 mins (18.67%)
+⏱ AI Coding Time: 17 mins (43.79%)
 
-✍️ 0 lines written by AI, 751 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 187 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 5 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 1,846 characters per prompt
+📚 Verbose Prompter — average 1,546 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
@@ -114,5 +110,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 02:37:38 UTC
+ Last Updated on 11/09/2026 02:31:29 UTC
 <!--END_SECTION:waka-->
