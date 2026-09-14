@@ -21,7 +21,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 112 Contributions in the Year 2026
+> 🏆 113 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-🌃 Evening                62 commits          ████████████████░░░░░░░░░   63.27 % 
-🌙 Night                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+🌞 Morning                6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+🌃 Evening                63 commits          ████████████████░░░░░░░░░   63.64 % 
+🌙 Night                  10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Tuesday                  19 commits          █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Thursday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Saturday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-Sunday                   25 commits          ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+Monday                   10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Tuesday                  19 commits          █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Wednesday                10 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Thursday                 16 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Saturday                 6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Sunday                   26 commits          ███████░░░░░░░░░░░░░░░░░░   26.26 % 
 ```
 
 
@@ -56,27 +56,26 @@ Sunday                   25 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C                        22 mins             ██████████████░░░░░░░░░░░   56.21 % 
-Other                    17 mins             ███████████░░░░░░░░░░░░░░   43.79 % 
+Other                    17 mins             ████████████████░░░░░░░░░   63.52 % 
+C                        10 mins             █████████░░░░░░░░░░░░░░░░   36.48 % 
 
 🔥 Editors: 
-VS Code                  22 mins             ██████████████░░░░░░░░░░░   56.21 % 
-Antigravity Desktop      17 mins             ███████████░░░░░░░░░░░░░░   43.79 % 
+Antigravity Desktop      17 mins             ████████████████░░░░░░░░░   63.52 % 
+VS Code                  10 mins             █████████░░░░░░░░░░░░░░░░   36.48 % 
 
 🐱‍💻 Projects: 
-ONLINE_BANKING_SYSTEM    17 mins             ███████████░░░░░░░░░░░░░░   42.48 % 
-LAB_4                    12 mins             ████████░░░░░░░░░░░░░░░░░   31.06 % 
-LAB_6                    10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-Linux-Character-Device-Dr0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+ONLINE_BANKING_SYSTEM    17 mins             ███████████████░░░░░░░░░░   61.61 % 
+LAB_6                    10 mins             █████████░░░░░░░░░░░░░░░░   36.48 % 
+Linux-Character-Device-Dr0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  28 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 mins (43.79%)
+⏱ AI Coding Time: 17 mins (63.52%)
 
 ✍️ 0 lines written by AI, 187 lines written by hand (0.0% AI-written)
 
@@ -110,5 +109,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 02:38:25 UTC
+ Last Updated on 14/09/2026 02:54:15 UTC
 <!--END_SECTION:waka-->
