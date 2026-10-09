@@ -11,7 +11,7 @@
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2015%20mins-blue?style=flat)
 
@@ -21,7 +21,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2026
+> 🏆 121 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-🌆 Daytime                20 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-🌃 Evening                74 commits          █████████████████░░░░░░░░   67.27 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+🌃 Evening                77 commits          █████████████████░░░░░░░░   68.14 % 
+🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Tuesday                  22 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Wednesday                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Thursday                 17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-Friday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Sunday                   27 commits          ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Tuesday                  22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Wednesday                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Friday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Sunday                   27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
 ```
 
 
@@ -56,22 +56,41 @@ Sunday                   27 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Text                     5 mins              █████████████████████████   100.00 % 
+HTML                     20 mins             ████████████████████░░░░░   78.64 % 
+Text                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
 
 🔥 Editors: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+Antigravity Desktop      16 mins             ████████████████░░░░░░░░░   65.44 % 
+VS Code                  8 mins              █████████░░░░░░░░░░░░░░░░   34.56 % 
 
 🐱‍💻 Projects: 
-OFFLINE PAYMENT SYSTEM   5 mins              █████████████████████████   100.00 % 
+ONLINE_BANKING_SYSTEM    20 mins             ████████████████████░░░░░   78.64 % 
+OFFLINE PAYMENT SYSTEM   5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  25 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 mins (65.44%)
+
+✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
+
+🔤 21,491 Input Tokens, 495 Output Tokens
+
+💵 $0.02 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 5 AI Prompts
+
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 101 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -91,5 +110,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 04:01:22 UTC
+ Last Updated on 09/10/2026 04:06:34 UTC
 <!--END_SECTION:waka-->
