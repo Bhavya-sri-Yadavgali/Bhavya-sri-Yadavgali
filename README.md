@@ -11,9 +11,9 @@
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-🌃 Evening                77 commits          █████████████████░░░░░░░░   68.14 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+🌞 Morning                6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+🌃 Evening                78 commits          █████████████████░░░░░░░░   68.42 % 
+🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Tuesday                  22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Wednesday                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Friday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Sunday                   27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+Monday                   13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Tuesday                  22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Wednesday                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Sunday                   27 commits          ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
 ```
 
 
@@ -110,5 +110,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 04:06:34 UTC
+ Last Updated on 10/10/2026 03:51:48 UTC
 <!--END_SECTION:waka-->
