@@ -56,25 +56,28 @@ Sunday                   27 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-HTML                     20 mins             ████████████████████░░░░░   78.64 % 
-Text                     5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+HTML                     20 mins             ████████████████░░░░░░░░░   63.14 % 
+Python                   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Text                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-Antigravity Desktop      16 mins             ████████████████░░░░░░░░░   65.44 % 
-VS Code                  8 mins              █████████░░░░░░░░░░░░░░░░   34.56 % 
+Antigravity Desktop      16 mins             █████████████░░░░░░░░░░░░   52.54 % 
+VS Code                  15 mins             ████████████░░░░░░░░░░░░░   47.46 % 
 
 🐱‍💻 Projects: 
-ONLINE_BANKING_SYSTEM    20 mins             ████████████████████░░░░░   78.64 % 
-OFFLINE PAYMENT SYSTEM   5 mins              █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+ONLINE_BANKING_SYSTEM    20 mins             ████████████████░░░░░░░░░   63.14 % 
+Indian-SignLanguage-Trans6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+OFFLINE PAYMENT SYSTEM   5 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (65.44%)
+⏱ AI Coding Time: 16 mins (52.54%)
 
 ✍️ 0 lines written by AI, 4 lines written by hand (0.0% AI-written)
 
@@ -110,5 +113,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 03:51:48 UTC
+ Last Updated on 11/10/2026 03:25:45 UTC
 <!--END_SECTION:waka-->
