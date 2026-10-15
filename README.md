@@ -11,9 +11,9 @@
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2017%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-9%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -21,7 +21,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 123 Contributions in the Year 2026
+> 🏆 124 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-🌃 Evening                80 commits          █████████████████░░░░░░░░   68.38 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+🌃 Evening                81 commits          █████████████████░░░░░░░░   68.64 % 
+🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Tuesday                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Wednesday                12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Sunday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Tuesday                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Sunday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 ```
 
 
@@ -56,33 +56,31 @@ Sunday                   28 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      51 mins             ████████████████░░░░░░░░░   64.31 % 
-HTML                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+C++                      51 mins             ████████████████░░░░░░░░░   65.98 % 
+HTML                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  44 mins             ██████████████░░░░░░░░░░░   54.79 % 
-Copilot CLI              19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
-Antigravity Desktop      16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+VS Code                  42 mins             █████████████░░░░░░░░░░░░   53.62 % 
+Copilot CLI              19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+Antigravity Desktop      16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
 
 🐱‍💻 Projects: 
-LAB_9                    51 mins             ████████████████░░░░░░░░░   64.31 % 
-ONLINE_BANKING_SYSTEM    20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
-Indian-SignLanguage-Trans6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-OFFLINE PAYMENT SYSTEM   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+LAB_9                    51 mins             ████████████████░░░░░░░░░   65.98 % 
+ONLINE_BANKING_SYSTEM    20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Indian-SignLanguage-Trans6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (56.73%)
+⏱ AI Coding Time: 45 mins (58.2%)
 
-✍️ 233 lines written by AI, 112 lines written by hand (67.54% AI-written)
+✍️ 233 lines written by AI, 110 lines written by hand (67.93% AI-written)
 
 🔤 21,491 Input Tokens, 495 Output Tokens
 
@@ -94,10 +92,10 @@ GPT                      233 lines           ███████████�
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 67.54% of written lines came from AI
+🤖 AI-Driven — 67.93% of written lines came from AI
 📝 Concise Prompter — average 88 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 53.68% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 53.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,5 +115,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 14/10/2026 03:07:20 UTC
+ Last Updated on 15/10/2026 02:47:02 UTC
 <!--END_SECTION:waka-->
