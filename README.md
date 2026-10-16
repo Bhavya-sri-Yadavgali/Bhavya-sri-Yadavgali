@@ -32,21 +32,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-🌃 Evening                81 commits          █████████████████░░░░░░░░   68.64 % 
-🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+🌞 Morning                7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+🌆 Daytime                20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+🌃 Evening                82 commits          █████████████████░░░░░░░░   68.91 % 
+🌙 Night                  10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Tuesday                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Thursday                 20 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Sunday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Monday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Tuesday                  23 commits          █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Wednesday                13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+Thursday                 21 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Friday                   14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Saturday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Sunday                   28 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
 ```
 
 
@@ -56,45 +56,41 @@ Sunday                   28 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      51 mins             ████████████████░░░░░░░░░   65.98 % 
-HTML                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+C++                      51 mins             ██████████████████████░░░   89.07 % 
+Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-VS Code                  42 mins             █████████████░░░░░░░░░░░░   53.62 % 
-Copilot CLI              19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Antigravity Desktop      16 mins             █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+VS Code                  38 mins             █████████████████░░░░░░░░   66.51 % 
+Copilot CLI              19 mins             ████████░░░░░░░░░░░░░░░░░   33.49 % 
 
 🐱‍💻 Projects: 
-LAB_9                    51 mins             ████████████████░░░░░░░░░   65.98 % 
-ONLINE_BANKING_SYSTEM    20 mins             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Indian-SignLanguage-Trans6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+LAB_9                    51 mins             ██████████████████████░░░   89.07 % 
+Indian-SignLanguage-Trans6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 
 💻 Operating System: 
-Windows                  1 hr 18 mins        █████████████████████████   100.00 % 
+Windows                  58 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 45 mins (58.2%)
+⏱ AI Coding Time: 28 mins (49.44%)
 
 ✍️ 233 lines written by AI, 110 lines written by hand (67.93% AI-written)
 
-🔤 21,491 Input Tokens, 495 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.02 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 10 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
 GPT                      233 lines           █████████████████████████   100.00 % 
-Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 67.93% of written lines came from AI
-📝 Concise Prompter — average 88 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📝 Concise Prompter — average 75 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 53.49% of changed lines were hand-edited
 ```
 
@@ -115,5 +111,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2026 02:47:02 UTC
+ Last Updated on 16/10/2026 02:43:24 UTC
 <!--END_SECTION:waka-->
