@@ -56,26 +56,23 @@ Sunday                   28 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      51 mins             ██████████████████████░░░   89.07 % 
-Python                   5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+C++                      51 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  38 mins             █████████████████░░░░░░░░   66.51 % 
-Copilot CLI              19 mins             ████████░░░░░░░░░░░░░░░░░   33.49 % 
+VS Code                  32 mins             ████████████████░░░░░░░░░   62.40 % 
+Copilot CLI              19 mins             █████████░░░░░░░░░░░░░░░░   37.60 % 
 
 🐱‍💻 Projects: 
-LAB_9                    51 mins             ██████████████████████░░░   89.07 % 
-Indian-SignLanguage-Trans6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+LAB_9                    51 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (49.44%)
+⏱ AI Coding Time: 28 mins (55.51%)
 
 ✍️ 233 lines written by AI, 110 lines written by hand (67.93% AI-written)
 
@@ -111,5 +108,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 02:35:15 UTC
+ Last Updated on 18/10/2026 02:36:12 UTC
 <!--END_SECTION:waka-->
