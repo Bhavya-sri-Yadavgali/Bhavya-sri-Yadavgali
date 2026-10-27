@@ -11,7 +11,7 @@
 ![Streak](https://streak-stats.demolab.com/?user=Bhavya-sri-Yadavgali&theme=tokyonight)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bhavya-sri-Yadavgali&theme=react-dark)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs-blue?style=flat)
 
@@ -91,5 +91,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Bhavya-sri-Yadavgali/Bhavya-sri-Yadavgali/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 02:44:23 UTC
+ Last Updated on 27/10/2026 03:18:56 UTC
 <!--END_SECTION:waka-->
